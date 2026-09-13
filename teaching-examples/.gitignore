@@ -1,0 +1,14 @@
+/build/
+/out/
+/.vs/
+/CMakeSettings.json
+/CMakeUserPresets.json
+/tcp_server
+/tcp_client
+/tls_server
+/tls_client
+*.pem
+*.key
+*.pcap
+*.pcapng
+*.log
