@@ -1,0 +1,29 @@
+# Build outputs
+/client
+/server
+/tls_client
+/tls_server
+/out/
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+*.o
+*.obj
+*.exe
+*.pdb
+
+# Local IDE settings
+/.vs/
+/CMakeSettings.json
+/CMakeUserPresets.json
+
+# Local certificates, keys and captures
+*.pem
+*.key
+.env*
+!.env.example
+*.pcap
+*.pcapng
+*.log
